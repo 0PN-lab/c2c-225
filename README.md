@@ -2,7 +2,7 @@
 Expert Interoperability WG5 with CETS 225 Series
 1.  GitHub README (CfP)
 
-# 🏛️ The 225 Consensus: Making AI Human Rights Machine-Readable
+# 🏛️ The 225 Consensus: Derrivative Machine-Readable Human Rights Controls and Obligations
 
 **The Problem:** The Council of Europe’s **CETS 225** is the world’s first treaty for AI Human Rights, but it currently lacks a technical implementation layer.
 
@@ -46,7 +46,7 @@ We are looking for a founding task force to move from "Draft" to "Standard":
 
 3. **Submit a PR** or contact us at [Insert Email/Discord] to join the inaugural sync call.
 
-**Let's stop talking about AI Ethics and start architecting them.**
+** Ethical AI is Transaprent by Default - Let's stop talking about it and make it happen.**
 
 #AIAct #CETS225 #ISO27560 #HumanRights #Standardization #CETS225Consensus #CouncilofEurope #COE
 
@@ -60,7 +60,7 @@ Legal Reference: Council of Europe CETS 225
 
 Technical Base: ISO/IEC 27560:2023 (Consent Records)
 
-I. Metadata & Provenance (The "Identity" Block)
+I. Macro-Metadata & Provenance (The "Identity" Block)
 
 -   Convention Identifier: cets_conformity: "CETS-225-2024"
 -   Model Identity Hash: model_version_hash: "SHA-256" (Unique fingerprint of the AI logic).
