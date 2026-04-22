@@ -2,7 +2,7 @@
 Expert Interoperability WG5 with CETS 225 Series
 1.  GitHub README (CfP)
 
-# 🏛️ The 225 Consensus: Derrivative Machine-Readable Human Rights Controls and Obligations
+# 🏛️ The 225 Expert Interop Group (Working title): Derrivative Machine-Readable Human Rights Controls and Obligations
 
 **The Problem:** The Council of Europe’s **CETS 225** is the world’s first treaty for AI Human Rights, but it currently lacks a technical implementation layer.
 
